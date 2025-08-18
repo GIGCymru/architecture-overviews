@@ -1,3 +1,3 @@
-# GIG Cymru - NHS Wales - {Site Title}
+# GIG Cymru - NHS Wales - Architecture Overviews
 
 Hello World!
