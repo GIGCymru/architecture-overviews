@@ -23,4 +23,3 @@ In summary, an AO constitutes a living document that provides an authoritative, 
 1. For an overview of the format of an AO, [arc42.org](https://arc42.org/overview/) will provide all the guidance you'll need.
 
 2. For more details on DHCW tooling requirements, please AO Requirements section.
-
