@@ -1,6 +1,6 @@
 site_name: GIG Cymru NHS Wales - Architecture Overviews
-site_url: https://gig-cymru-nhs-wales.github.io/architecture-overviews/
-repo_url: https://github.com/GIG-Cymru-NHS-Wales/architecture-overviews/
+site_url: https://gigcymru.github.io/architecture-overviews/
+repo_url: https://github.com/GIGCymru/architecture-overviews/
 docs_dir: doc
 edit_uri: edit/main/doc/
 extra_css:
